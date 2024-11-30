@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shivendra Bhaginath Devadhe
+- 👀 I’m interested in developing new things
+- 🌱 I’m currently learning java backend frameworks and dbms
+- 💞️ I’m looking to collaborate on java projects which are little bit challanging
+- 📫 X --> https://x.com/Shivendra_54
+- 📫 LinkedIn --> www.linkedin.com/in/shivendra-devadhe-97017a327
