@@ -1,5 +1,3 @@
-# 🚀 Shivendra Bhaginath Devadhe
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Shivendra!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 ## 👨‍💻 About Me
