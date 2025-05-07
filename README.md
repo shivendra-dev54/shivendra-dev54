@@ -4,11 +4,11 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Always cooking up some code magic in **Java**, **Python**, and **JavaScript**
-- 🌱 Currently digging deep into `Java Backend`, `DBMS`, and `Machine Learning`
+- 🧠 Always cooking up some code magic in **Python**, **JavaScript**, **Java** and **C++**
+- 🌱 Currently digging deep into `Web dev` and `Machine Learning`
 - 💡 I love solving problems, building cool stuff, and breaking things to learn better
-- 🧩 DSA | Networking | Systems | Databases | AI — I do it all ⚙️
-- 💞️ Looking for Java collabs that push the limits 🚀
+- 🧩 DSA | Networking | Web Dev | Databases | AI — I do it all ⚙️
+- 💞️ Looking for Machine Learning collabs that push the limits 🚀
 
 ## 🧠 Tech Stack
 
@@ -18,9 +18,9 @@
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 ### 🧰 Tools & Frameworks:
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
@@ -43,12 +43,12 @@
 
 ### 🧠 Core CS:
 - ✅ Data Structures & Algorithms
-- ✅ DBMS, OS, CN
 - ✅ Supervised | Unsupervised | Deep Learning
+- ✅ DBMS, OS, CN
 
 ## 🔗 Let's Connect
 
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shivendra_54?t=UtciB6ekyE7O6jj-T4R79w&s=08)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devadhe_sb54?t=UtciB6ekyE7O6jj-T4R79w&s=08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivendra-devadhe-97017a327)
 
 ---
