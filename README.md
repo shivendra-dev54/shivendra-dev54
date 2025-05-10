@@ -27,6 +27,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ### 🗄️ Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
@@ -38,6 +40,10 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx)
+![LangChain](https://img.shields.io/badge/-LangChain-3333AA?style=flat-square)
+![LLMs](https://img.shields.io/badge/-LLMs-black?style=flat-square)
 
 ### 🧠 Core CS:
 - ✅ Data Structures & Algorithms
@@ -64,4 +70,3 @@
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
