@@ -68,5 +68,3 @@
 > _“Code never lies, comments sometimes do.”_
 
 ---
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
