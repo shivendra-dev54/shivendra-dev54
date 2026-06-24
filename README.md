@@ -38,7 +38,7 @@ I like<br>
 
 ## Contact & Connectivity
 
-Email: devadheshivendra54@gmail.com
+Email: [devadhe.shivendra@protonmail.com](mailto:devadhe.shivendra@protonmail.com)
 <br>
 <br>
 Socials: <br>
