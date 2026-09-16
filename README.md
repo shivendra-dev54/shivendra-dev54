@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Shivendra&fontSize=40&fontAlignY=35&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YO!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 ## About
 3rd-year engineering student focused on Go, TypeScript, and robust database architecture. My projects tackle real-world
