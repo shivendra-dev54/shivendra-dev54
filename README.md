@@ -1,17 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YO!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 ## About
-3rd-year engineering student focused on Go, TypeScript, and robust database architecture. My projects tackle real-world
-problems like live bidding concurrency, REST API optimization, and real-time data feeds.
+3rd-year engineering student focused on Python, TypeScript and many more things. <br/>
+The only goal behind every project is to get an internship.
 
 ---
 
 ## Technical Expertise
 
-* **Languages:** Go, TypeScript, Java, Python, SQL
-* **Web & Backend:** Next.js, Node.js, MERN Stack, REST APIs, WebSockets
+* **Languages:** Python, TypeScript, Java, SQL
+* **Web & Backend:** Next.js, Node.js, MERN Stack, REST APIs
 * **Databases:** PostgreSQL, MongoDB
 * **DevOps & Tools:** Docker, AWS, Git/GitHub, CI/CD (GitHub Actions), Vercel
+* **Theory Subjects:** Machine Learning, Computer Networking, Operating System, DBMS
 
 ---
 ## Contact & Connectivity
